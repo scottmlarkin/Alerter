@@ -567,3 +567,5 @@ class Alert @JvmOverloads constructor(context: Context, attrs: AttributeSet? = n
         private val MUL = -0x1000000
     }
 }
+
+/** Test */
